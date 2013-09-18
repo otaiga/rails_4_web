@@ -28,7 +28,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
 # Add Foundation Here
-gem 'compass-rails' # you need this or you get an err
+gem 'compass-rails', '~> 2.0.alpha.0'
 gem 'zurb-foundation', '~> 4.0.0'
 
 group :doc do
